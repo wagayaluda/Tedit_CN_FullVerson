@@ -1,0 +1,14 @@
+﻿<Window x:Class="TEditXna.Editor.Plugins.FindChestWithPluginView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:view="clr-namespace:TEditXna.View" SizeToContent="WidthAndHeight"
+        Title="条件寻找宝箱插件" ResizeMode="NoResize" WindowStartupLocation="CenterOwner" Icon="/TEditXna;component/Images/tedit.ico">
+    <StackPanel Background="{StaticResource ControlBackgroundBrush}" >
+        <TextBlock Text="输入欲查找的英文物品名以开始查询." Margin="10 2" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Stretch" Foreground="{StaticResource TextBrush}"/>
+        <TextBox x:Name="ItemLookup"></TextBox>
+        <Grid>
+            <Button Margin="5" Content="取消" HorizontalAlignment="Left" Padding="20, 3" VerticalAlignment="Center" Click="CancelButtonClick" />
+            <Button Margin="5" Content="搜索" HorizontalAlignment="Right" Padding="20, 3" VerticalAlignment="Center" Click="SearchButtonClick" />
+        </Grid>
+    </StackPanel>
+</Window>

@@ -1,0 +1,14 @@
+﻿<Window x:Class="TEditXna.Editor.Plugins.ReplaceAllPluginView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:view="clr-namespace:TEditXna.View" SizeToContent="WidthAndHeight"
+        Title="替换所有物块插件" ResizeMode="NoResize" WindowStartupLocation="CenterOwner" Icon="/TEditXna;component/Images/tedit.ico">
+    <StackPanel Background="{StaticResource ControlBackgroundBrush}" >
+        <TextBlock Text="选择替换墙壁或物块后, 开启筛选编辑." Margin="10 2" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Stretch" Foreground="{StaticResource TextBrush}"/>
+        <view:PaintModeView MaxHeight="90" HorizontalAlignment="Stretch" VerticalAlignment="Top" />
+        <Grid>
+            <Button Margin="5" Content="取消" HorizontalAlignment="Left" Padding="20, 3" VerticalAlignment="Center" Click="CancelButtonClick" />
+            <Button Margin="5" Content="替换" HorizontalAlignment="Right" Padding="20, 3" VerticalAlignment="Center" Click="ReplaceButtonClick" />
+        </Grid>
+    </StackPanel>
+</Window>
