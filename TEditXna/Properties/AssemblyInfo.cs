@@ -45,7 +45,7 @@ using System.Windows.Markup;
 //
 
 [assembly: AssemblyVersion("3.9.0.0")]
-[assembly: AssemblyFileVersion("3.9.17113.1655")]
+[assembly: AssemblyFileVersion("3.9.16348.0006")]
 
 
 [assembly: XmlnsDefinition("http://tedit/wpf", "TEdit.UI.Xaml")]
