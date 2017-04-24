@@ -1,8 +1,8 @@
-TEditÍêÈ«ºº»¯¡ª¡ª¸öÈËºº»¯
-Ó¢ÎÄÔ­°æ£ºhttps://github.com/TEdit/Terraria-Map-Editor/releases
-ºº»¯Ô­°æ£ºhttps://github.com/mistzzt/Terraria-Map-Editor/releases
-¹Ù·½ÏÂÔØÕ¾£ºhttp://www.binaryconstruct.com/downloads
-
-ºº»¯ĞÅÏ¢
-TEdit 3.9 for Terraria 1.3.4Ìí¼ÓÎï¼şµÄºº»¯
-Ö÷Ò³£ºhttp://www.terrrariaserver.cn
+TEditå®Œå…¨æ±‰åŒ–â€”â€”ä¸ªäººæ±‰åŒ–
+=
+è‹±æ–‡åŸç‰ˆï¼šhttps://github.com/TEdit/Terraria-Map-Editor/releases<br>
+æ±‰åŒ–åŸç‰ˆï¼šhttps://github.com/mistzzt/Terraria-Map-Editor/releases<br>
+å®˜æ–¹ä¸‹è½½ç«™ï¼šhttp://www.binaryconstruct.com/downloads<br><br>
+æ±‰åŒ–ä¿¡æ¯<br>
+TEdit 3.9 for Terraria 1.3.4æ·»åŠ ç‰©ä»¶çš„æ±‰åŒ–<br>
+ä¸»é¡µï¼šhttp://www.terrrariaserver.cn
